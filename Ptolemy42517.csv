@@ -1,4 +1,4 @@
-Source,Celestial event 1,Chronological relation, units, Celestial event 2,Number of units 
+Source,Astronomical epoch 1,Chronological relation, units, Astronomical epoch 2,Number of units 
 Ptolemy,1,precedes,days,2,354
 Ptolemy,2,precedes,days,3,177
 Ptolemy,3,precedes,days,4,36387
@@ -14,3 +14,7 @@ Ptolemy,12,precedes,days,13,X
 Ptolemy,13,precedes,days,14,X
 Ptolemy,14,precedes,days,15,X
 Ptolemy,15,precedes,days,16,X
+Ptolemy,16,precedes,days,17,X
+Ptolemy,17,precedes,days,18,X
+Ptolemy,19,precedes,days,20,X
+Ptolemy,20,precedes,days,21,X
