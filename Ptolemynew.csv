@@ -1,0 +1,22 @@
+Source,Astronomical epoch 1,Chronological relation,units,Astronomical epoch 2,Number of units 
+Ptolemy,1,precedes,days,2,354
+Ptolemy,2,precedes,days,3,177
+Ptolemy,3,precedes,days,4,36387
+Ptolemy,4,precedes,days,5,35875
+Ptolemy,5,precedes,days,6,7426
+Ptolemy,6,precedes,days,7,3805
+Ptolemy,7,precedes,days,9,40053
+Ptolemy,9,precedes,days,10,178
+Ptolemy,10,precedes,days,11,172
+Ptolemy,11,precedes,days,12,31784.5
+Ptolemy,11,precedes,days,30,65664.5
+Ptolemy,30,precedes,days,31,173
+Ptolemy,31,precedes,days,32,176
+Ptolemy,32,precedes,days,33,9727.5
+Ptolemy,33,precedes,days,39,10013.5(+0->365)
+Ptolemy,39,precedes,days,42,1582.5(+0->365)
+Ptolemy,42,precedes,days,43,1582.5(+0->365)
+Ptolemy,43,precedes,days,54,94062.5(+0->365)
+Ptolemy,54,precedes,days,63,2948
+Ptolemy,63,precedes,days,69,532
+Ptolemy,69,precedes,days,73,502
